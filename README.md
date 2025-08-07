@@ -10,7 +10,7 @@ This ROM is has suport for 2 phones.
 
 ### Galaxy A34 5G(MicroG, ultra-debloat)
 
-##Credits:
+## Credits:
 @DarkKiller28 for support
 
 @WalterGrayz for maintaining c2s(seperate repo)
